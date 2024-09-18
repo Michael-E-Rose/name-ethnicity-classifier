@@ -77,7 +77,7 @@ If the ``--distribution`` flag was set the output .csv will look like this:
 
 #### Example command:
 ```
-python3 predict_ethnicitiy.py -n "Gonzalo Rodriguez"
+python3 predict_ethnicity.py -n "Gonzalo Rodriguez"
 
 >> name: Gonzalo Rodriguez - predicted ethnicity: spanish
 ```
