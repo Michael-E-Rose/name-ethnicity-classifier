@@ -14,7 +14,7 @@ git clone https://github.com/name-ethnicity-classifier/name-ethnicity-classifier
 cd name-ethnicity-classifier/
 ```
 ### Dependencies:
-The script was tested with **Python ≥ 3.7**.
+The script was tested with **Python ≥ 3.10**.
 
 The following packages are needed: ``NumPy``, ``Pandas`` and ``PyTorch``.
 
